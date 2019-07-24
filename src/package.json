@@ -1,4 +1,11 @@
 {
+  "name": "listy",
+  "version": "1.0.0",
+  "description": "A Discord bot to handle the upload and viewing of newline spaced raw text files",
+  "main": "listy.js",
+  "repository": "https://github.com/ehsawyer/listy",
+  "author": "Ethan Sawyer",
+  "license": "GPL-3.0-only",
   "dependencies": {
     "discord.js": "github:discordjs/discord.js",
     "dotenv": "^8.0.0"
