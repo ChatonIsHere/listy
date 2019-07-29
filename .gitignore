@@ -60,8 +60,5 @@ typings/
 # next.js build output
 .next
 
-# Environment variables
-.env
-
 # Text file folder
 txt/
